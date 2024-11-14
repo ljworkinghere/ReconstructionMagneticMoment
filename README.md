@@ -1,0 +1,2 @@
+The five Python scripts are designed for the methodology outlined in the paper 'Using Magnetic Moment for Field Reconstruction in Accelerator Magnets and Particle Tracking.' The comments within the scripts explain how the code functions. However, there are no actual examples included in the Python scripts, so users will need to modify the content accordingly.
+The .ini and .dat files are intended for use with TraceWin software, and they contain an example lattice configuration used in the paper.
